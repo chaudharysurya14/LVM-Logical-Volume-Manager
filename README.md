@@ -1,6 +1,6 @@
 # Logical Volume Manager (LVM)
 
-![LVM Logo](https://www.example.com/logo.png)
+![LVM Logo](https://github.com/chaudharysurya14/LVM-Logical-Volume-Manager/blob/master/blog-head_lvm.webp)
 
 ## Overview
 
